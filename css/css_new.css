@@ -153,6 +153,7 @@ h3 p {
   width: 100%;
   display: inline-block;
   display: -webkit-inline-box;
+  flex-direction: column;
   align-content: space-between;
   align-content: inherit;
   justify-content: space-evenly;
